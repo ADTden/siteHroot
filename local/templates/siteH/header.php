@@ -15,7 +15,8 @@ IncludeTemplateLangFile(__FILE__);
 <body>
 			
 <div class="header">
-    ШапОчка
+  <div class="logo"><img src="<?=SITE_TEMPLATE_PATH?>/images/ROAiiL-2sps.jpg" alt=""></div>
+   <div class="top-text">ШапОчка</div>
 </div>			
 
 <!--<h5><?//$APPLICATION->ShowTitle(false);?></h5> -->
